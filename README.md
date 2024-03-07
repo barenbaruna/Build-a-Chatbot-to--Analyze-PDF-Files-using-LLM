@@ -5,7 +5,7 @@
 <h2 align="left">📝 Authors:</h2>
 <ul>
     <li><a href="https://www.linkedin.com/in/sina-nazeri/">Sina Nazeri</a></li>
-    <li><a href="https://www.linkedin.com/in/john-doe/">Talha Siddiqui</a></li>
+    <li><a>Talha Siddiqui</a></li>
 </ul>
 
 
