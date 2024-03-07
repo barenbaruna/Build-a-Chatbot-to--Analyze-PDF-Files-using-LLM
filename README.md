@@ -24,6 +24,7 @@
 <!-- Demo Link -->
 <h2 align="left">Demo</h2>
 <p align="left">Check out the live demo <a href="https://chatbot-for-own-data.xs6r134s1i6.us-east.codeengine.appdomain.cloud/">here</a>.</p>
+<img src="https://media.discordapp.net/attachments/1215173989455102053/1215174042290487407/image.png?ex=65fbca04&is=65e95504&hm=b18e92afd0c2d1f1a0d5da5621ed211bdccbf19f4c025452d9ca8f075c9da8ea&=&format=webp&quality=lossless&width=1193&height=671" alt="Demo Screenshot">
 
 <!-- Technologies -->
 <h2 align="left">Technologies</h2>
