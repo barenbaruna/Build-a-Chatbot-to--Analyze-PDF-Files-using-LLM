@@ -10,7 +10,7 @@
 
 
 <!-- Mentee Information -->
-<h2 align="left">🚀 Mentee Information (Contributor)</h2>
+<h2 align="left">🚀 Mentee Information</h2>
 <ul align="left">
     <li><strong>Name:</strong> Baren Baruna Harahap</li>
     <li><strong>Program:</strong> MSIB Batch 6 (IBM Advance AI)</li>
