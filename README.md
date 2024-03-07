@@ -45,7 +45,7 @@
 
 <!-- Conclusion -->
 <h2 align="center">Conclusion</h2>
-<p align="center">Congratulations on completing this project! By finishing this project, we have learned a lot about the usage of cutting-edge technologies in artificial intelligence and web development.</p>
+<p align="center">By finishing this project, we have learned a lot about the usage of cutting-edge technologies in artificial intelligence and web development.</p>
 
 
 
