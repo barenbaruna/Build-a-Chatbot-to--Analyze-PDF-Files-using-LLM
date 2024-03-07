@@ -18,7 +18,12 @@
 </ul>
 
 <!-- Description -->
+<h2 align="left">Overview</h2>
 <p align="left">This project implements a chatbot using OpenAI GPT 3.5 LLM API to analyze uploaded PDF files.</p>
+
+<!-- Demo Link -->
+<h2 align="left">Demo</h2>
+<p align="left">Check out the live demo <a href="https://chatbot-for-own-data.xs6r134s1i6.us-east.codeengine.appdomain.cloud/">here</a>.</p>
 
 <!-- Technologies -->
 <h2 align="left">Technologies</h2>
