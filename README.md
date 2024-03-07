@@ -1,6 +1,17 @@
 <!-- Title -->
 <h1 align="center">Chatbot for PDF Analysis with LLM</h1>
 
+<!-- Author -->
+<h2 align="center">📝 Author: <a href="https://www.linkedin.com/in/sina-nazeri/">Sina Nazeri</a></h2>
+
+<!-- Mentee Information -->
+<h2 align="center">🚀 Mentee Information (Contributor)</h2>
+<ul align="center">
+    <li><strong>Name:</strong> Baren Baruna Harahap</li>
+    <li><strong>Program:</strong> MSIB Batch 6 (IBM Advance AI)</li>
+    <li><strong>Mentor:</strong> <a href="https://github.com/Ichsan-Takwa">Ichsan Takwa</a></li>
+</ul>
+
 <!-- Description -->
 <p align="center">This project implements a chatbot using OpenAI GPT 3.5 LLM API to analyze uploaded PDF files.</p>
 
@@ -47,6 +58,12 @@
 <h2 align="center">Conclusion</h2>
 <p align="center">By finishing this project, we have learned a lot about the usage of cutting-edge technologies in artificial intelligence and web development.</p>
 
+<!-- Support -->
+<h2 align="center">📧 Support</h2>
+<p align="center">For any questions or issues regarding this project, feel free to contact me at <a href="mailto:barenbarunaharahap@gmail.com">barenbarunaharahap@gmail.com</a>.</p>
 
+<!-- Acknowledgements -->
+<h2 align="center">🙏 Acknowledgements</h2>
+<p align="center">Special thanks to IBM Advance AI @Infinite Learning for providing valuable insights and guidance throughout this course.</p>
 
 
