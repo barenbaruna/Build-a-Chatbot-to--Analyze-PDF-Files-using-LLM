@@ -2,11 +2,11 @@
 <h1 align="center">Chatbot for PDF Analysis with LLM</h1>
 
 <!-- Author -->
-<h2 align="center">📝 Author: <a href="https://www.linkedin.com/in/sina-nazeri/">Sina Nazeri</a></h2>
+<h2 align="left">📝 Author: <a href="https://www.linkedin.com/in/sina-nazeri/">Sina Nazeri</a></h2>
 
 <!-- Mentee Information -->
-<h2 align="center">🚀 Mentee Information (Contributor)</h2>
-<ul align="center">
+<h2 align="left">🚀 Mentee Information (Contributor)</h2>
+<ul align="left">
     <li><strong>Name:</strong> Baren Baruna Harahap</li>
     <li><strong>Program:</strong> MSIB Batch 6 (IBM Advance AI)</li>
     <li><strong>Mentor:</strong> <a href="https://github.com/Ichsan-Takwa">Ichsan Takwa</a></li>
