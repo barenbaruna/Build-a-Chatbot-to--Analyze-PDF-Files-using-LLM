@@ -33,6 +33,14 @@
     <li>Stable internet access</li>
 </ul>
 
+<!-- Requirements -->
+<h2 align="center">Requirements</h2>
+<p align="center">Before running the application, make sure you have the following dependencies installed. You can install them using pip:</p>
+
+```bash
+pip install -r requirements.txt
+
+
 <!-- Setup -->
 <h2 align="center">Setup</h2>
 <p align="center">To run the application, execute the server.py script:</p>
