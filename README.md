@@ -2,7 +2,12 @@
 <h1 align="center">Chatbot for PDF Analysis with LLM</h1>
 
 <!-- Author -->
-<h2 align="left">📝 Author: <a href="https://www.linkedin.com/in/sina-nazeri/">Sina Nazeri</a></h2>
+<h2 align="left">📝 Authors:</h2>
+<ul>
+    <li><a href="https://www.linkedin.com/in/sina-nazeri/">Sina Nazeri</a></li>
+    <li><a href="https://www.linkedin.com/in/john-doe/">Talha Siddiqui</a></li>
+</ul>
+
 
 <!-- Mentee Information -->
 <h2 align="left">🚀 Mentee Information (Contributor)</h2>
