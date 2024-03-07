@@ -29,7 +29,7 @@
 <!-- Technologies -->
 <h2 align="left">Technologies</h2>
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="50" style="background-color: white; padding: 5px; border-radius: 5px;">
     <img src="https://static.cdnlogo.com/logos/o/29/OpenAI-Logo_800x800.png" alt="OpenAI" height="50"/>
     <img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" alt="HTML5" height="50"/>
     <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" alt="CSS" height="50"/>
